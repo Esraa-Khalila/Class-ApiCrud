@@ -6,6 +6,7 @@ class Search extends Component {
     error: false,
     searchValue: "",
     isLoading: false,
+    
   };
 
   componentDidMount() {
